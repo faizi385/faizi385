@@ -41,8 +41,8 @@ From elegant frontends to powerful backend systems, I love solving real-world pr
 
 ## 📫 Connect with Me  
 
-- 💼 LinkedIn: [linkedin.com/in/faizi385](https://linkedin.com/in/faizi385)  
-- 📧 Email: [faizannovatore@gmail.com](mailto:faizannovatore@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/faizi385](https://www.linkedin.com/in/faizan-moeen-918660350)  
+- 📧 Email: [faizanmoeen385@gmail.com](mailto:faizanmoeen385@gmail.com)  
 - 🐙 GitHub: [github.com/faizi385](https://github.com/faizi385)  
 
 ---
