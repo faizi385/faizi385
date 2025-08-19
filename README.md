@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi there, I'm Faizan  
 
-<!--
-**faizi385/faizi385** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full Stack Developer** | 💻 **PHP | Laravel | Vue.js | React | Python | Node.js**  
 
-Here are some ideas to get you started:
+I am a passionate full stack developer with experience building scalable, high-performance web applications.  
+From elegant frontends to powerful backend systems, I love solving real-world problems with clean, efficient code.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack  
+
+**Frontend:**  
+- React, Vue.js, JavaScript (ES6+), TailwindCSS, Bootstrap  
+
+**Backend:**  
+- PHP (Laravel), Node.js, Python (Flask/FastAPI), REST APIs, GraphQL  
+
+**Databases & Cloud:**  
+- MySQL, PostgreSQL, MongoDB  
+- AWS, Google Cloud, Firebase  
+
+**Tools & DevOps:**  
+- Git, GitHub Actions, Docker, CI/CD, Linux  
+
+---
+
+## 📈 GitHub Stats  
+
+![Faizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizi385&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizi385&layout=compact&theme=radical)  
+
+---
+
+## 🌟 Featured Projects  
+
+- ✉️ **Email Categorizer AI** – Smart Gmail auto-reply & categorization system (Python + Gemini API + Gmail API)  
+- 🛒 **E-commerce Platform** – Built with Laravel + Vue.js + MySQL  
+- 📊 **Dashboard & Analytics Tools** – React + Node.js + MongoDB  
+
+---
+
+## 📫 Connect with Me  
+
+- 💼 LinkedIn: [linkedin.com/in/faizi385](https://linkedin.com/in/faizi385)  
+- 📧 Email: [faizannovatore@gmail.com](mailto:faizannovatore@gmail.com)  
+- 🐙 GitHub: [github.com/faizi385](https://github.com/faizi385)  
+
+---
+
+💡 *Always eager to collaborate on exciting full stack projects and contribute to open source!*  
