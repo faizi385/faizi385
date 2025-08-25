@@ -1,8 +1,9 @@
 # 👋 Hi there, I'm Faizan  
 
-![Profile Views](https://img.shields.io/badge/Profile%20Views-173-blue?style=flat) 
+![Profile Views](https://img.shields.io/badge/Profile%20Views-173-blue?style=flat)  
 
 ## 🌐 Connect with Me  
+- 🌎 [Portfolio](https://main.d3mamstt6aq4i8.amplifyapp.com/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/faizan-moeen-918660350)  
 - 🐙 [GitHub](https://github.com/faizi385)  
 - 📧 [Email](mailto:faizanmoeen385@gmail.com)  
