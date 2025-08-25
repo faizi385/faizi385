@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Faizan  
 
-![Profile Views](https://komarev.com/ghpvc/?username=faizi385&label=Profile%20Views&color=blue&style=flat)  
+![Profile Views](https://img.shields.io/badge/Profile%20Views-1573-blue?style=flat) 
 
 ## 🌐 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/faizan-moeen-918660350)  
