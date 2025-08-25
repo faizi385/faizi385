@@ -1,5 +1,14 @@
 # 👋 Hi there, I'm Faizan  
 
+![Profile Views](https://komarev.com/ghpvc/?username=faizi385&label=Profile%20Views&color=blue&style=flat)  
+
+## 🌐 Connect with Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/faizan-moeen-918660350)  
+- 🐙 [GitHub](https://github.com/faizi385)  
+- 📧 [Email](mailto:faizanmoeen385@gmail.com)  
+
+---
+
 🚀 **Full Stack Developer** | 💻 **PHP | Laravel | Vue.js | React | Python | Node.js**  
 
 I am a passionate full stack developer with experience building scalable, high-performance web applications.  
@@ -28,22 +37,6 @@ From elegant frontends to powerful backend systems, I love solving real-world pr
 
 ![Faizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizi385&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizi385&layout=compact&theme=radical)  
-
----
-
-## 🌟 Featured Projects  
-
-- ✉️ **Email Categorizer AI** – Smart Gmail auto-reply & categorization system (Python + Gemini API + Gmail API)  
-- 🛒 **E-commerce Platform** – Built with Laravel + Vue.js + MySQL  
-- 📊 **Dashboard & Analytics Tools** – React + Node.js + MongoDB  
-
----
-
-## 📫 Connect with Me  
-
-- 💼 LinkedIn: [linkedin.com/in/faizi385](https://www.linkedin.com/in/faizan-moeen-918660350)  
-- 📧 Email: [faizanmoeen385@gmail.com](mailto:faizanmoeen385@gmail.com)  
-- 🐙 GitHub: [github.com/faizi385](https://github.com/faizi385)  
 
 ---
 
